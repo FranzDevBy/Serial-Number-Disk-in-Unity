@@ -1,0 +1,2 @@
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\obj\Debug\SerialNumberDisk.csproj.AssemblyReference.cache
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\obj\Debug\SerialNumberDisk.csproj.CoreCompileInputs.cache

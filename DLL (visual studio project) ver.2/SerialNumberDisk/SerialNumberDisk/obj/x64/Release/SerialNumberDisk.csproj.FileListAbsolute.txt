@@ -1,0 +1,18 @@
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\bin\x64\Release\SerialNumberDisk.dll
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\bin\x64\Release\SerialNumberDisk.pdb
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.dll
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.pdb
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.csproj.AssemblyReference.cache
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project)\SerialNumberDisk\SerialNumberDisk\bin\x64\Release\SerialNumberDisk.dll
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project)\SerialNumberDisk\SerialNumberDisk\bin\x64\Release\SerialNumberDisk.pdb
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project)\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.csproj.AssemblyReference.cache
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project)\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project)\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.dll
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project)\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.pdb
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project) ver.2\SerialNumberDisk\SerialNumberDisk\bin\x64\Release\SerialNumberDisk.dll
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project) ver.2\SerialNumberDisk\SerialNumberDisk\bin\x64\Release\SerialNumberDisk.pdb
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project) ver.2\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.csproj.AssemblyReference.cache
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project) ver.2\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project) ver.2\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.dll
+D:\Users\Admin\Documents\GitHub\Serial-Number-Disk-in-Unity\DLL (visual studio project) ver.2\SerialNumberDisk\SerialNumberDisk\obj\x64\Release\SerialNumberDisk.pdb

@@ -1,0 +1,5 @@
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\bin\x86\Release\SerialNumberDisk.dll
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\bin\x86\Release\SerialNumberDisk.pdb
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\obj\x86\Release\SerialNumberDisk.csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\obj\x86\Release\SerialNumberDisk.dll
+D:\MY PROJECTS\SerialNumberDisk\SerialNumberDisk\obj\x86\Release\SerialNumberDisk.pdb
