@@ -6,7 +6,10 @@ ver.1 - определение серийного номера по индекс
 
 ver.2 - определине серийного номера по имени тома
 
+***
 
 Использованные источники:
+
 https://forum.hellroom.ru/index.php?topic=21309.msg260134#msg260134
+
 https://stackoverflow.com/questions/27628965/get-drive-model-from-drive-letter
